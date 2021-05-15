@@ -1,4 +1,4 @@
-## Tugas Kuliah Pemrograman
+## Donation Page
 <img src="assets/img/thumbnail-donation.jpg" alt="banner">
 <p align=center>
   <a href="https://facebook.com/tfkhdyt142"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>&nbsp;
@@ -12,7 +12,7 @@
 </p>
 
 ### Demo
-[![Click here](https://tfkhdyt.web.app/donate)]
+[Click here](https://tfkhdyt.web.app/donate)
 
 ### Support
 Klik tombol di bawah untuk mendukung saya lewat donasi
